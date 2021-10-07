@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  PongLevelOne
 //
-//  Created by Ping Sun on 8/3/20.
+//  Created by Tony Liu on 8/3/20.
 //  Copyright © 2020 Tony Liu. All rights reserved.
 //
 
@@ -28,9 +28,6 @@ class PongLevelOne: SKScene, SKPhysicsContactDelegate {
     //Audio Variables
     var soundPlayer = AVAudioPlayer()
     let synthesizer = AVSpeechSynthesizer()
-    
-    
-    
     
     override func didMove(to view: SKView) {
         
@@ -61,9 +58,7 @@ class PongLevelOne: SKScene, SKPhysicsContactDelegate {
         }
         
     }
-    
-    
-    
+        
     func addScore(playerWhoLost : SKSpriteNode) {
         attempts += 1
         let randomDirection = Int.random(in: 0...3)
@@ -146,8 +141,7 @@ class PongLevelOne: SKScene, SKPhysicsContactDelegate {
         }
         
     }
-    
-    
+        
     override func update(_ currentTime: TimeInterval) {
         // Called before each frame is rendered
         
@@ -158,6 +152,7 @@ class PongLevelOne: SKScene, SKPhysicsContactDelegate {
             exportGeneralData()
         }
     }
+        
     func exportGeneralData() {
         
         let text = String(trial).padding(toLength: 18, withPad: " ", startingAt: 0) + currentStatus.padding(toLength: 18, withPad: " ", startingAt: 0)
