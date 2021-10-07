@@ -3,7 +3,6 @@
 //  PongLevelOne
 //
 //  Created by Tony Liu on 8/3/20.
-//  Copyright © 2020 Tony Liu. All rights reserved.
 //
 
 import UIKit
