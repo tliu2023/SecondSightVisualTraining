@@ -2,8 +2,7 @@
 //  LevelTwoConfirmation.swift
 //  Object localization game
 //
-//  Created by Ping Sun on 5/28/20.
-//  Copyright © 2020 Paul Hudson. All rights reserved.
+//  Created by Tony Liu on 5/28/20.
 //
 
 import UIKit
