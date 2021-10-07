@@ -3,7 +3,6 @@
 //  Object localization game
 //
 //  Created by Tony Liu on 5/29/20.
-//  Copyright © 2020 Paul Hudson. All rights reserved.
 //
 
 import UIKit
