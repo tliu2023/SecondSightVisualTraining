@@ -2,8 +2,7 @@
 //  PongLevelOneConfirmation.swift
 //  SecondSightVideoModeTraining
 //
-//  Created by Ping Sun on 8/11/20.
-//  Copyright © 2020 Paul Hudson. All rights reserved.
+//  Created by Tony Liu on 8/11/20.
 //
 
 import UIKit
