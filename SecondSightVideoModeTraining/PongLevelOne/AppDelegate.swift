@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PongLevelOne
 //
-//  Created by Ping Sun on 8/3/20.
+//  Created by Tony Liu on 8/3/20.
 //  Copyright © 2020 Tony Liu. All rights reserved.
 //
 
